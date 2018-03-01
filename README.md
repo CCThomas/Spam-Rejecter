@@ -21,4 +21,4 @@ Spam Rejecter is an Android Application that auto rejects spam calls, based on a
 * Click [here](https://github.com/CCThomas/Spam-Rejecter/blob/master/Version.md) for details.
 
 ## LICENSE
-This project is [licensed](https://github.com/CCThomas/Office-And-Recreation/blob/master/LICENSE) under the terms of the MIT license.
+This project is [licensed](https://github.com/CCThomas/Spam-Rejecter/blob/master/LICENSE) under the terms of the MIT license.
