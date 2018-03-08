@@ -20,6 +20,11 @@ import ccthomas.com.spamrejecter.object.Subset;
 
 public class FileManagement {
 
+    /**
+     * Load the Phone Directory (List of Subsets) from the Save File
+     * @param context
+     * @param fileName
+     */
     public static void setPhoneDirectory(Context context, String fileName) {
         try {
             InputStream inputStream = context.openFileInput(fileName);
@@ -48,6 +53,11 @@ public class FileManagement {
         }
     }
 
+    /**
+     * Save Subsets to the Phone Directory (List of Subsets)
+     * @param context
+     * @param fileName
+     */
     public static void savePhoneDirectory(Context context, String fileName) {
         try {
             OutputStreamWriter outputStreamWriter = new OutputStreamWriter(context.openFileOutput(fileName, Context.MODE_PRIVATE));
