@@ -2,6 +2,7 @@
 Spam Rejecter is an Android Application that auto rejects spam calls, based on a subset of numbers given to the app.
 
 ## User Guide
+* **This is a Functional App. Sorry about the UI**
 * Enter a Subset of Numbers
 * Choose Subset options
   * Full
@@ -17,7 +18,7 @@ Spam Rejecter is an Android Application that auto rejects spam calls, based on a
 ## Documentation
 [Documentation](https://github.com/CCThomas/Spam-Rejecter/blob/master/Documentation.md)
 
-## Version 0
+## Version 1
 * Click [here](https://github.com/CCThomas/Spam-Rejecter/blob/master/Version.md) for details.
 
 ## LICENSE
