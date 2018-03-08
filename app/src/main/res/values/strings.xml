@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Spam Rejecter</string>
+
+    <string-array name="type_array">
+        <item>Full</item>
+        <item>Prefix</item>
+        <item>Substring</item>
+        <item>Suffix</item>
+    </string-array>
+</resources>
