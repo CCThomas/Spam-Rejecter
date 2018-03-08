@@ -9,8 +9,6 @@ import android.telephony.TelephonyManager;
 import android.widget.Toast;
 import java.lang.reflect.Method;
 
-import ccthomas.com.spamrejecter.object.Subset;
-
 /**
  * Created by CCThomasMac on 3/1/18.
  */
